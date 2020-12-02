@@ -19,7 +19,11 @@ const BookItems = (props) => {
                         </div>
                     </div>
                     <div className="book-title">{book.title}</div>
-                    <div className="book-authors"></div>
+                    <div className="book-authors">{
+                        book.authors !== undefined && book.authors.map( author => {
+                            return (author)
+                        })
+                    }</div>
                 </div>
             </li>
         ));
