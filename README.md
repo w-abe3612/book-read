@@ -36,7 +36,6 @@ To get started developing right away:
     └── index.js
 ```
 
-Remember that good React design practice is to create new JS files for each component and use import/require statements to include them where they are needed.
 
 ## Backend Server
 
