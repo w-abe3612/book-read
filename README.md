@@ -22,6 +22,8 @@ You can assign a status to a book you find from the search screen and move it to
 
 For this assignment we had a [starter](https://github.com/udacity/reactnd-project-myreads-starter), and we took the HTML and CSS and made them into components to create the interaction.
 
+**Live Demo**:[Demo](https://frosty-brattain-d824f9.netlify.app/)
+
 ## TL;DR
 
 To get started developing right away:
