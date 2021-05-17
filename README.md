@@ -1,6 +1,26 @@
 # MyReads Project
 
-This project allows you to search for a book and save it to a specific shelf.
+これはWEB上に存在するあなたの本棚です。
+- 現在読んでいる本
+- 読みたい本
+- 読み終わった本
+
+に棚が分かれており、本のステータスを変更することで、本を別の棚に移動させ、その本が今あなたにとってどんな状態にあるのかを整理することができます。
+棚画面と検索画面に分かれています。
+検索画面から探した本にステータスを付与することで、本棚に移動することができます。
+
+この課題には[スターター](https://github.com/udacity/reactnd-project-myreads-starter)が存在し、HTMLとCSSが存在している状態から、それらをコンポーネント化し、インタラクションを作成いたしました。
+
+This is your bookshelf on the Web.
+- Currently Reading
+- Want to Read
+- Read
+
+By changing the status of a book, you can move it to a different shelf and organise what state it is in for you.
+The system is divided into a shelf screen and a search screen.
+You can assign a status to a book you find from the search screen and move it to the shelf.
+
+For this assignment we had a [starter](https://github.com/udacity/reactnd-project-myreads-starter), and we took the HTML and CSS and made them into components to create the interaction.
 
 ## TL;DR
 
